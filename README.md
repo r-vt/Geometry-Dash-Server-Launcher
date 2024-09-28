@@ -1,3 +1,5 @@
+*Note: Currently only works with external privat servers, the normal geometry dash installation doesnt open correctly (will fix soon)
+
 # Geometry-Dash-Server-Launcher
 A unstable launcher for geometry dash privat servers
 
