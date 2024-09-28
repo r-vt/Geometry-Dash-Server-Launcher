@@ -5,10 +5,10 @@ A unstable launcher for geometry dash privat servers
 1. Just go to the releases tab and download the zip.
 \n   1.1 Alternatively you can use git to clone the repository
 \n   ```git clone https://github.com/r-vt/Geometry-Dash-Server-Launcher```
-2. Run the exe file "Geometry Dash Server Launcher.exe"
-   2.1 You can also create a desktop shortcut
+\n2. Run the exe file "Geometry Dash Server Launcher.exe"
+\n  2.1 You can also create a desktop shortcut
 
-And your dont!
+And your done!
 
 ### --- Special Thanks ---
 ### @dubbyball
